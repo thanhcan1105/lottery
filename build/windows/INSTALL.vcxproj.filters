@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\code\fastmoney\build\windows\CMakeFiles\6e4e9c448abee197d6e0d12b7e48b793\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C262C869-CAFB-3F50-8A78-0DE30A4EFE9A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

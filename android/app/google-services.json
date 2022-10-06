@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157885300252",
+    "project_id": "fcmtest-29258",
+    "storage_bucket": "fcmtest-29258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157885300252:android:b8f392a06fb64a594ae9d9",
+        "android_client_info": {
+          "package_name": "vn.fhr.finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157885300252-1bniuajmsjshffpumvd6097id030iv1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwqCRXc03PUvf0yygztyNPj3YBs85xfpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157885300252-1bniuajmsjshffpumvd6097id030iv1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

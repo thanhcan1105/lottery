@@ -1,0 +1,10 @@
+^C:\CODE\FASTMONEY\BUILD\WINDOWS\CMAKEFILES\6E4E9C448ABEE197D6E0D12B7E48B793\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/code/fastmoney/windows -BC:/code/fastmoney/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/code/fastmoney/build/windows/ykapay.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
