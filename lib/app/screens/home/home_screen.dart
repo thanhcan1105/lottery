@@ -208,6 +208,7 @@ class HomeScreen extends GetView<HomeController> {
                                 onTap: () {
                                   // FocusScope.of(context).requestFocus(new FocusNode());
                                   controller.getResult();
+                                  showAboutDialog(context: context);
                                 },
                                 child: Container(
                                   width: 60,
